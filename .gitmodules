@@ -1,3 +1,6 @@
 [submodule "recipe-finder-react"]
 	path = recipe-finder-react
 	url = https://github.com/pandeyshivam-debug/recipe-finder-react
+[submodule "jwt-assignment"]
+	path = jwt-assignment
+	url = https://github.com/pandeyshivam-debug/secret-quote-project
