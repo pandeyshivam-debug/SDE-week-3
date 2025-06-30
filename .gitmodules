@@ -1,0 +1,3 @@
+[submodule "recipe-finder-react"]
+	path = recipe-finder-react
+	url = https://github.com/pandeyshivam-debug/recipe-finder-react
